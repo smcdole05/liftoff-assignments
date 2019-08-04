@@ -11,21 +11,29 @@ For this assignment, you'll create some initial plans for your project.
 * Landing Page
   * ![Landing Page](/images/LandingPage.png)
 
-* ![Shop](/images/Shop.png)
+* Shop
+  * ![Shop](/images/Shop.png)
 
-* ![Search Results](/images/SearchResults.png)
+* Search Results
+  * ![Search Results](/images/SearchResults.png)
 
-* ![Product Page](/images/ProductPage.png)
+* Product Page
+  * ![Product Page](/images/ProductPage.png)
 
-* ![Shopping Cart](/images/ShoppingCart.png)
+* Shopping Cart
+  * ![Shopping Cart](/images/ShoppingCart.png)
 
-* ![Shipping Details](/images/ShippingDetails.png)
+* Shipping Details
+  * ![Shipping Details](/images/ShippingDetails.png)
 
-* ![Payment Options](/images/PaymentOptions.png)
+* Payment Options
+  * ![Payment Options](/images/PaymentOptions.png)
 
-* ![Account Details](/images/AccountDetails.png)
+* Account Details
+  * ![Account Details](/images/AccountDetails.png)
 
-* ![New Item Form](/images/NewItemForm.png)
+* New Item Form
+  * ![New Item Form](/images/NewItemForm.png)
 
 ### Project Tracker
 
