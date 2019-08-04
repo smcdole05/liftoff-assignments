@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-* ![Landing Page](\P3-Project_Planning\images\LandingPage.png)
+* ![Landing Page](/images/LandingPage.png)
 * ![Shop](/images/Shop.png)
 * ![Search Results](/images/SearchResults.png)
 * ![Product Page](/images/ProductPage.png)
