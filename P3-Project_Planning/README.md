@@ -8,12 +8,20 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* (P3-Project_Planning/images/LandingPage.png)
+* (P3-Project_Planning/images/Shop.png)
+* (P3-Project_Planning/images/SearchResults.png)
+* (P3-Project_Planning/images/ProductPage.png)
+* (P3-Project_Planning/images/ShoppingCart.png)
+* (P3-Project_Planning/images/ShippingDetails.png)
+* (P3-Project_Planning/images/PaymentOptions.png)
+* (P3-Project_Planning/images/AccountDetails.png)
+* (P3-Project_Planning/images/NewItemForm.png)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://trello.com/b/mWuOemUD/liftoff-capstone-project - automatic!
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+https://github.com/smcdole05/Capstone-Project - automatic!
