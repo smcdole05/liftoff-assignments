@@ -8,20 +8,20 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-* (P3-Project_Planning/images/LandingPage.png)
-* (P3-Project_Planning/images/Shop.png)
-* (P3-Project_Planning/images/SearchResults.png)
-* (P3-Project_Planning/images/ProductPage.png)
-* (P3-Project_Planning/images/ShoppingCart.png)
-* (P3-Project_Planning/images/ShippingDetails.png)
-* (P3-Project_Planning/images/PaymentOptions.png)
-* (P3-Project_Planning/images/AccountDetails.png)
-* (P3-Project_Planning/images/NewItemForm.png)
+* (/images/LandingPage.png)
+* (/images/Shop.png)
+* (/images/SearchResults.png)
+* (/images/ProductPage.png)
+* (/images/ShoppingCart.png)
+* (/images/ShippingDetails.png)
+* (/images/PaymentOptions.png)
+* (/images/AccountDetails.png)
+* (/images/NewItemForm.png)
 
 ### Project Tracker
 
-https://trello.com/b/mWuOemUD/liftoff-capstone-project - automatic!
+[Trello] (https://trello.com/b/mWuOemUD/liftoff-capstone-project)
 
 ### Project Repo Link
 
-https://github.com/smcdole05/Capstone-Project - automatic!
+[Trello] (https://github.com/smcdole05/Capstone-Project)
