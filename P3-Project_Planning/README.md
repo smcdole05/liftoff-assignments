@@ -8,14 +8,23 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-* ![Landing Page](/images/LandingPage.png)
+* Landing Page
+  * ![Landing Page](/images/LandingPage.png)
+
 * ![Shop](/images/Shop.png)
+
 * ![Search Results](/images/SearchResults.png)
+
 * ![Product Page](/images/ProductPage.png)
+
 * ![Shopping Cart](/images/ShoppingCart.png)
+
 * ![Shipping Details](/images/ShippingDetails.png)
+
 * ![Payment Options](/images/PaymentOptions.png)
+
 * ![Account Details](/images/AccountDetails.png)
+
 * ![New Item Form](/images/NewItemForm.png)
 
 ### Project Tracker
