@@ -7,13 +7,12 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-### Project Repo Link
 [GitHub](https://github.com/smcdole05)
  
 ### LinkedIn
 [LinkedIn](https://linkedin.com/in/spencermcdole)
 
 ### Resume
-![Resume](images/LaunchcodeResumeSpencerMcDole.pdf)
+Resume pdf is uploaded to this directory above.
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
